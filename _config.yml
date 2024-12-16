@@ -1,8 +1,8 @@
 # Site settings
-title: Alice & Eve 2024
+title: Alice & Eve 2025
 tag_text: Alice & Eve
 description: Alice and Eve is an event to celebrate women in computing!
-baseurl: "/2024" # the subpath of your site, e.g. /blog
+baseurl: "/2025" # the subpath of your site, e.g. /blog
 url: "https://alice-and-eve.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 plugins:
