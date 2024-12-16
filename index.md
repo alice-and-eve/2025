@@ -7,7 +7,7 @@ layout: default
 <!-- **Did you attend Alice & Eve 2024? Please fill out our feedback form: [https://forms.gle/cFKzTXHZQpLtyMY17](https://forms.gle/cFKzTXHZQpLtyMY17)**-->
 
 Welcome to our free one-day workshop for celebrating women studying and working in computing!
-Alice & Eve aims to bring together talents in the field of computing. The fifth edition of this workshop will be hosted on **25 October 2024** by the Leiden University.
+Alice & Eve aims to bring together talents in the field of computing. The sixth edition of this workshop will be hosted on **31 October 2025** by the University of Groningen.
 
 Alice and Eve event is inspired by the [BCS Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) that started in 2008. For more details about earlier editions of Alice & Eve, see the websites of [2020](https://fmt.ewi.utwente.nl/events/aliceandeve2020/), [2021](https://aliceandeve.cs.ru.nl/), [2022](https://alice-and-eve.github.io/2022/), [2023](https://alice-and-eve.github.io/2023/) and [2024](https://alice-and-eve.github.io/2024/).
 
@@ -21,24 +21,26 @@ Join us, and participate to our poster contest on the topic of your choice!
 
 ### Date:
 
-Alice & Eve will take place on October 25th, 2024.
+Alice & Eve will take place on October 31, 2025.
 
 ### Venue:
 
-The workshop will be held in The Launch on the second floor of PLNT, Leiden.
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4894.777675507259!2d4.489776676910258!3d52.16362346255315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5c6935ca128d3%3A0x8979448a419f89c4!2sPLNT%20Leiden!5e0!3m2!1sen!2snl!4v1727699287973!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+The workshop will be held in BernoulliBorg on the first floor, Groningen.
+<iframe src="[https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4894.777675507259!2d4.489776676910258!3d52.16362346255315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5c6935ca128d3%3A0x8979448a419f89c4!2sPLNT%20Leiden!5e0!3m2!1sen!2snl!4v1727699287973!5m2!1sen!2snl](https://maps.app.goo.gl/ziXaY5664EHWgjZf7)" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2447.751991104805!2d4.482933476457672!3d52.15701986304036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5c6f2447daae3%3A0x48e9dc4f075bb167!2z6I6x6aG_5aSn5a2m!5e0!3m2!1szh-CN!2snl!4v1710771504599!5m2!1snl!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
 
 ### Registration:
 
 The registration is free and includes coffee breaks, lunch and drinks. We welcome everyone of **all genders**, **from bachelor students to full professors**, to attend the event.
 
-REGISTRATION IS CLOSED!
+<!--REGISTRATION IS CLOSED!-->
 
-<!--[SIGN UP HERE](https://forms.office.com/e/BckrsM54dj)-->
+[SIGN UP HERE](https://forms.gle/7ULkZzgR1zj3w7HG8)
 
 ## Program
 
+To be announced!
+<!--
 | Time |  |
 |---|---|
 | 09:30 - 10:00  | Welcome coffee (The Launch)|
@@ -56,16 +58,19 @@ REGISTRATION IS CLOSED!
 | 16:00 - 16:15  | Poster Awards |
 | 16:15 - 17:00  | Panel: **Ethics in Computing: How can we design algorithms that are more fair, transparent and explainable?** Speakers: [Francien Dechesne](https://www.universiteitleiden.nl/en/staffmembers/francien-dechesne#tab-1) (Leiden University), Christine Utz (Radboud University), Hugo Jonker (Open University) |
 | 17:00 - 18:00  | Goodbye Drinks |
+-->
 
 ## Poster Contest
 
-We invited all female students (Bachelor/Master/PhD) and early career researchers of computing and related subjects (in the broadest sense) to submit a poster. The poster could be on any computing topic they like: from social networking to quantum computing and from medical image processing to formal verification. Thirty-two posters were short listed for display during the event. This year, we have two best posters:
+We invite all female students (Bachelor/Master/PhD) and early career researchers of computing and related subjects (in the broadest sense) to submit a poster. The poster could be on any computing topic they like: from social networking to quantum computing and from medical image processing to formal verification. 
+<!--Thirty-two posters were short listed for display during the event. This year, we have two best posters:
 
 **Ailsa Robertson**: Your Cryptography Will Be Broken – Act Now!
 
 **Krist Shingjergji**: Sense the classroom: AI-supported synchronous online education for a resilient new normal
 
 Congratulations!
+-->
 
 ## Exhibition
 
@@ -83,6 +88,9 @@ Fantastic **[coding games](https://www.aliceandeve.nl/games)** and **[media](htt
 
 ## Speakers
 
+To be announced!
+
+<!--
 We have invited some inspiring women working on the cutting edge of computing. Confirmed speakers include:
   
 - **[Suzan Verberne](https://liacs.leidenuniv.nl/~verbernes/)**, Professor at U Leiden
@@ -111,6 +119,8 @@ We have invited some inspiring women working on the cutting edge of computing. C
   
   I am a researcher who aims at bridging the gap between the meaning of data and human understanding in complex application environments, where data can be of various natures. I am also an academic teacher and mentor, who believes that students learn most, when they are given responsibility and freedom in their learning process. I believe in an international orientation in research and teaching and a balance between academic, curiosity-driven research and industrial, problem-oriented research.
 
+-->
+
 ## Jobs Board
 
 During the conference, there will be the possibility for attendees to advertise open positions in their university/company. Furthermore, participants looking for jobs are also welcome to post their credentials and type of job/internship they are looking for. Job postings are under the following rules:
@@ -121,11 +131,10 @@ During the conference, there will be the possibility for attendees to advertise 
 
 ## Organizing Committee
 
-- [Lu Cao](https://www.universiteitleiden.nl/en/staffmembers/lu-cao%5B2%5D#tab-1), Leiden University
-- [Olga Gadyatskaya](https://www.universiteitleiden.nl/en/staffmembers/olga-gadyatskaya#tab-1), Leiden University
-- [Eleftheria Makri](https://www.universiteitleiden.nl/en/staffmembers/eleftheria-makri#tab-1), Leiden University
-- [Shuang Sun](https://www.universiteitleiden.nl/en/staffmembers/shuang-sun#tab-1), Leiden University
-
+- [Dimka Karastoyanova](https://www.rug.nl/staff/d.karastoyanova/), University of Groningen
+- [Kerstin Bunte](https://www.rug.nl/staff/k.bunte/), University of Groningen
+- [Raffaella Carloni](https://www.rug.nl/staff/r.carloni/), University of Groningen
+- [Jiapan Guo](https://www.rug.nl/staff/j.guo/), University of Groningen
 
 ## Steering committee
 
@@ -156,7 +165,9 @@ This Code of Conduct was adapted from the [Geek Feminism Wiki anti-harassment po
 
 ## Our Sponsors
 
-We are currently looking for sponsors. Contact [Eleftheria Makri](mailto:Eleftheria Makri <e.makri@liacs.leidenuniv.nl>?subject=[Alice and Eve 2024] Sponsoring) for more information and a discussion on how your organization could support the 5th Alice and Eve workshop.
+We are currently looking for sponsors. Contact [Raffaella Carloni](mailto:Raffaella Carloni <[r.carloni@rug.nl](https://www.rug.nl/staff/r.carloni/)>?subject=[Alice and Eve 2025] Sponsoring) for more information and a discussion on how your organization could support the 6th Alice and Eve workshop.
+
+<!--
 <div style="text-align: center">
   <div class="sponsors orga">
     <div class="margin-top">
@@ -192,6 +203,7 @@ We are currently looking for sponsors. Contact [Eleftheria Makri](mailto:Elefthe
     </div>
  </div>
 </div>
+-->
 
 <!--
 <div style="text-align: center">
@@ -227,7 +239,7 @@ We are currently looking for sponsors. Contact [Eleftheria Makri](mailto:Elefthe
       <img src="assets/sponsors-logo/uva-logo.png" alt="Logo UvA" style="max-width: 100%">
     </div>-->
     <div class="margin-top">
-      <img src="assets/sponsors-logo/Leiden-University-logo.jpg" alt="Logo LU" style="max-height: 100px; max-width: 100%">
+      <img src="assets/sponsors-logo/RUG_logo.png" alt="Logo RUG" style="max-height: 100px; max-width: 100%">
     </div>
     <!--<div class="margin-top">
       <img src="assets/sponsors-logo/cwi-logo.png" alt="Logo CWI" style="max-width: 100%">
@@ -236,4 +248,4 @@ We are currently looking for sponsors. Contact [Eleftheria Makri](mailto:Elefthe
 </div>
 ## Contact Us
 
-For questions regarding the workshop, please [contact the organizers](mailto:Lu Cao <l.cao@liacs.leidenuniv.nl>, Olga Gadyatskaya <o.gadyatskaya@liacs.leidenuniv.nl>, Eleftheria Makri <e.makri@liacs.leidenuniv.nl>, Shuang Sun <s.sun@liacs.leidenuniv.nl>?subject=[Alice and Eve 2024] Question)!
+For questions regarding the workshop, please [contact the organizers](mailto:Dimka Karastoyanova <d.karastoyanova@rug.nl>, Kerstin Bunte <k.bunte@rug.nl>, Raffaella Carloni <r.carloni@rug.nl>, Jiapan Guo <j.guo@rug.nl>?subject=[Alice and Eve 2025] Question)!
