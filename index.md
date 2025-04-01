@@ -140,6 +140,9 @@ During the conference, there will be the possibility for attendees to advertise 
 - [Raffaella Carloni](https://www.rug.nl/staff/r.carloni/), University of Groningen
 - [Jiapan Guo](https://www.rug.nl/staff/j.guo/), University of Groningen
 
+## For Publicity
+- [Ayushi Rastogi](https://www.rug.nl/staff/a.rastogi/), University of Groningen
+
 ## Steering committee
 
 - [Marieke Huisman](https://people.utwente.nl/m.huisman), Universiteit Twente (UT)
