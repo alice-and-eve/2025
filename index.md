@@ -138,10 +138,8 @@ During the conference, there will be the possibility for attendees to advertise 
 - [Dimka Karastoyanova](https://www.rug.nl/staff/d.karastoyanova/), University of Groningen
 - [Kerstin Bunte](https://www.rug.nl/staff/k.bunte/), University of Groningen
 - [Raffaella Carloni](https://www.rug.nl/staff/r.carloni/), University of Groningen
-- [Jiapan Guo](https://www.rug.nl/staff/j.guo/), University of Groningen
-
-## For Publicity
 - [Ayushi Rastogi](https://www.rug.nl/staff/a.rastogi/), University of Groningen
+- [Jiapan Guo](https://www.rug.nl/staff/j.guo/), University of Groningen
 
 ## Steering committee
 
