@@ -258,6 +258,43 @@ For questions regarding the workshop, please [contact the organizers](mailto:Dim
 
 ## About Groningen
 
-To be added
+Groningen is the capital city and main municipality of the province of Groningen, located in the northeast of the Netherlands. With a population of approximately 245,000, it is the largest urban center in the region. Despite its size, Groningen remains a relatively undiscovered and unspoiled part of the country, known for preserving its authenticity and charm.
+
+The city is frequently ranked among the happiest in Europe. In a recent European Commission survey, Groningen was named the third happiest city, with 96% of residents expressing satisfaction with life in the city. It consistently earns high marks in education, public spaces, healthcare, and air quality.
+
+Demographically, Groningen is the youngest city in the Netherlands, with students making up around 25% of the population. The city’s strong academic presence and vibrant cultural life make it an attractive destination for young people from across the world.
+
+Founded as early as the 3rd century BC, Groningen has evolved into a lively and modern academic hub, while proudly maintaining its historical identity and welcoming atmosphere.
+
+Want to learn more about Groningen? Visit (https://www.visitgroningen.nl)
+
+## Accommodation
+
+Although the Alice & Eve event is a one-day program, we warmly encourage you to consider extending your stay into a long weekend. This will give you the opportunity to enjoy the city, connect with fellow participants, and make the most of your visit in a relaxed and inspiring atmosphere.
+
+To facilitate your travel planning, we have pre-reserved a number of rooms at the hotels below. Where available, you may use the promotional codes provided. If no code is listed, simply mention your participation in the Alice & Eve worshop.
+
+<!--
+|	Hotel Name	|	Address	|	Room type	|	rates	|	Breakfast	|	City tax	|	promotion code	|
+
+|	Martini Hotel	|	Gedempte Zuiderdiep 8	|	Small double room (1pax)	|	109,50	|	incl.	|	4,00 p.p.p.n	|		|
+|	|		|	Small double room (2pax)	|	129,50	|	incl.	|	4,00 p.p.p.n	|		|
+|	|		|	Standard double room (1pax)	|	129,50	|	incl.	|	4,00 p.p.p.n	|		|
+|	|		|	Standard double room (2pax)	|	149,50	|	incl.	|	4,00 p.p.p.n	|		|
+
+|	The Market Hotel	|	Grote Markt 31	|	Single room	|	180,00	|	incl.	|	incl.	|	492408	|
+|		|		|	Superior room	|	139,00	|	incl.	|	incl.	|	492408	|
+|		|		|	Deluxe room	|	149,00	|	incl.	|	incl.	|	492408	|
+
+|	Hotel Schimmelpenninck Huys	|	Oosterstraat 53	|	Cosy room - single occupancy	|	105,00	|	22,50	|	5,00 p.p.p.n	|		|
+|		|		|	Charme room single occupancy	|	115,00	|	22,50	|	5,00 p.p.p.n	|		|
+|		|		|	Charme room double occupancy	|	169,00	|	22,50	|	5,00 p.p.p.n	|		|
+
+|	Leonardo Hotel Groningen City Center	|	Gedempte Kattendiep 25	|	Comfort Room	|	119,00 (20,00 additional guest)	|	incl.	|	4,00 p.p.p.n	|		|
+|		|		|	Superior Room	|	139,00 (20,00 additional guest)	|	incl.	|	4,00 p.p.p.n	|		|
+
+|	The happy traveler	|	Kleine Kromme Elleboog 5	|	Room single occupancy	|	120,00 	|	incl.	|	incl.	|		|
+
+-->
 
 
