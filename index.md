@@ -287,21 +287,21 @@ To facilitate your travel planning, we have pre-reserved a number of rooms at th
         </tr>
     </thead>
     <tbody>
-        <tr><td rowspan="4">Martini Hotel</td><td rowspan="4">Gedempte Zuiderdiep 8</td><td>Small double room (1pax)</td><td>109.50</td><td>incl.</td><td>4.00 p.p.p.n</td><td></td></tr>
-        <tr><td>Small double room (2pax)</td><td>129.50</td><td>incl.</td><td>4.00 p.p.p.n</td><td></td></tr>
-        <tr><td>Standard double room (1pax)</td><td>129.50</td><td>incl.</td><td>4.00 p.p.p.n</td><td></td></tr>
-        <tr><td>Standard double room (2pax)</td><td>149.50</td><td>incl.</td><td>4.00 p.p.p.n</td><td></td></tr>
+        <tr><td rowspan="4">Martini Hotel</td><td rowspan="4">Gedempte Zuiderdiep 8</td><td>Small double room (1pax)</td><td>109.50</td><td>incl.</td><td>4.00 p.p.p.n</td><td rowspan="4"></td></tr>
+        <tr><td>Small double room (2pax)</td><td>129.50</td><td>incl.</td><td>4.00 p.p.p.n</td></tr>
+        <tr><td>Standard double room (1pax)</td><td>129.50</td><td>incl.</td><td>4.00 p.p.p.n</td></tr>
+        <tr><td>Standard double room (2pax)</td><td>149.50</td><td>incl.</td><td>4.00 p.p.p.n</td></tr>
 
-        <tr><td rowspan="3">The Market Hotel</td><td rowspan="3">Grote Markt 31</td><td>Single room</td><td>180.00</td><td>incl.</td><td>incl.</td><td>492408</td></tr>
-        <tr><td>Superior room</td><td>139.00</td><td>incl.</td><td>incl.</td><td>492408</td></tr>
-        <tr><td>Deluxe room</td><td>149.00</td><td>incl.</td><td>incl.</td><td>492408</td></tr>
+        <tr><td rowspan="3">The Market Hotel</td><td rowspan="3">Grote Markt 31</td><td>Single room</td><td>180.00</td><td>incl.</td><td>incl.</td><td rowspan="3">492408</td></tr>
+        <tr><td>Superior room</td><td>139.00</td><td>incl.</td><td>incl.</td></tr>
+        <tr><td>Deluxe room</td><td>149.00</td><td>incl.</td><td>incl.</td></tr>
 
-        <tr><td rowspan="3">Hotel Schimmelpenninck Huys</td><td rowspan="3">Oosterstraat 53</td><td>Cosy room - single occupancy</td><td>105.00</td><td>22.50</td><td>5.00 p.p.p.n</td><td></td></tr>
-        <tr><td>Charme room single occupancy</td><td>115.00</td><td>22.50</td><td>5.00 p.p.p.n</td><td></td></tr>
-        <tr><td>Charme room double occupancy</td><td>169.00</td><td>22.50</td><td>5.00 p.p.p.n</td><td></td></tr>
+        <tr><td rowspan="3">Hotel Schimmelpenninck Huys</td><td rowspan="3">Oosterstraat 53</td><td>Cosy room - single occupancy</td><td>105.00</td><td>22.50</td><td>5.00 p.p.p.n</td><td rowspan="3"></td></tr>
+        <tr><td>Charme room single occupancy</td><td>115.00</td><td>22.50</td><td>5.00 p.p.p.n</td></tr>
+        <tr><td>Charme room double occupancy</td><td>169.00</td><td>22.50</td><td>5.00 p.p.p.n</td></tr>
 
-        <tr><td rowspan="2">Leonardo Hotel Groningen City Center</td><td rowspan="2">Gedempte Kattendiep 25</td><td>Comfort Room</td><td>119.00 (20.00 additional guest)</td><td>incl.</td><td>4.00 p.p.p.n</td><td></td></tr>
-        <tr><td>Superior Room</td><td>139.00 (20.00 additional guest)</td><td>incl.</td><td>4.00 p.p.p.n</td><td></td></tr>
+        <tr><td rowspan="2">Leonardo Hotel Groningen City Center</td><td rowspan="2">Gedempte Kattendiep 25</td><td>Comfort Room</td><td>119.00 (20.00 additional guest)</td><td>incl.</td><td>4.00 p.p.p.n</td><td rowspan="2"></td></tr>
+        <tr><td>Superior Room</td><td>139.00 (20.00 additional guest)</td><td>incl.</td><td>4.00 p.p.p.n</td></tr>
 
         <tr><td>The Happy Traveler</td><td>Kleine Kromme Elleboog 5</td><td>Room single occupancy</td><td>120.00</td><td>incl.</td><td>incl.</td><td></td></tr>
     </tbody>
