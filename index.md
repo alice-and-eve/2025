@@ -275,7 +275,6 @@ Although the Alice & Eve event is a one-day program, we warmly encourage you to 
 To facilitate your travel planning, we have pre-reserved a number of rooms at the hotels below. Where available, you may use the promotional codes provided. If no code is listed, simply mention your participation in the Alice & Eve workshop.
 
 <table>
-    <caption>Hotel Options for Conference Participants</caption>
     <thead>
         <tr>
             <th>Hotel Name</th>
