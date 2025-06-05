@@ -272,9 +272,9 @@ Want to learn more about Groningen? Visit (https://www.visitgroningen.nl)
 
 Although the Alice & Eve event is a one-day program, we warmly encourage you to consider extending your stay into a long weekend. This will give you the opportunity to enjoy the city, connect with fellow participants, and make the most of your visit in a relaxed and inspiring atmosphere.
 
-To facilitate your travel planning, we have pre-reserved a number of rooms at the hotels below. Where available, you may use the promotional codes provided. If no code is listed, simply mention your participation in the Alice & Eve worshop.
+To facilitate your travel planning, we have pre-reserved a number of rooms at the hotels below. Where available, you may use the promotional codes provided. If no code is listed, simply mention your participation in the Alice & Eve workshop.
 
-<!--
+
 |	Hotel Name	|	Address	|	Room type	|	rates	|	Breakfast	|	City tax	|	promotion code	|
 
 |	Martini Hotel	|	Gedempte Zuiderdiep 8	|	Small double room (1pax)	|	109,50	|	incl.	|	4,00 p.p.p.n	|		|
@@ -294,7 +294,4 @@ To facilitate your travel planning, we have pre-reserved a number of rooms at th
 |		|		|	Superior Room	|	139,00 (20,00 additional guest)	|	incl.	|	4,00 p.p.p.n	|		|
 
 |	The happy traveler	|	Kleine Kromme Elleboog 5	|	Room single occupancy	|	120,00 	|	incl.	|	incl.	|		|
-
--->
-
 
