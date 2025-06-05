@@ -274,24 +274,55 @@ Although the Alice & Eve event is a one-day program, we warmly encourage you to 
 
 To facilitate your travel planning, we have pre-reserved a number of rooms at the hotels below. Where available, you may use the promotional codes provided. If no code is listed, simply mention your participation in the Alice & Eve workshop.
 
+<table>
+    <caption>Hotel Options for Conference Participants</caption>
+    <thead>
+        <tr>
+            <th>Hotel Name</th>
+            <th>Address</th>
+            <th>Room Type</th>
+            <th>Rates (€)</th>
+            <th>Breakfast</th>
+            <th>City Tax</th>
+            <th>Promotion Code</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td rowspan="4">Martini Hotel</td><td rowspan="4">Gedempte Zuiderdiep 8</td><td>Small double room (1pax)</td><td>109.50</td><td>incl.</td><td>4.00 p.p.p.n</td><td></td></tr>
+        <tr><td>Small double room (2pax)</td><td>129.50</td><td>incl.</td><td>4.00 p.p.p.n</td><td></td></tr>
+        <tr><td>Standard double room (1pax)</td><td>129.50</td><td>incl.</td><td>4.00 p.p.p.n</td><td></td></tr>
+        <tr><td>Standard double room (2pax)</td><td>149.50</td><td>incl.</td><td>4.00 p.p.p.n</td><td></td></tr>
 
+        <tr><td rowspan="3">The Market Hotel</td><td rowspan="3">Grote Markt 31</td><td>Single room</td><td>180.00</td><td>incl.</td><td>incl.</td><td>492408</td></tr>
+        <tr><td>Superior room</td><td>139.00</td><td>incl.</td><td>incl.</td><td>492408</td></tr>
+        <tr><td>Deluxe room</td><td>149.00</td><td>incl.</td><td>incl.</td><td>492408</td></tr>
+
+        <tr><td rowspan="3">Hotel Schimmelpenninck Huys</td><td rowspan="3">Oosterstraat 53</td><td>Cosy room - single occupancy</td><td>105.00</td><td>22.50</td><td>5.00 p.p.p.n</td><td></td></tr>
+        <tr><td>Charme room single occupancy</td><td>115.00</td><td>22.50</td><td>5.00 p.p.p.n</td><td></td></tr>
+        <tr><td>Charme room double occupancy</td><td>169.00</td><td>22.50</td><td>5.00 p.p.p.n</td><td></td></tr>
+
+        <tr><td rowspan="2">Leonardo Hotel Groningen City Center</td><td rowspan="2">Gedempte Kattendiep 25</td><td>Comfort Room</td><td>119.00 (20.00 additional guest)</td><td>incl.</td><td>4.00 p.p.p.n</td><td></td></tr>
+        <tr><td>Superior Room</td><td>139.00 (20.00 additional guest)</td><td>incl.</td><td>4.00 p.p.p.n</td><td></td></tr>
+
+        <tr><td>The Happy Traveler</td><td>Kleine Kromme Elleboog 5</td><td>Room single occupancy</td><td>120.00</td><td>incl.</td><td>incl.</td><td></td></tr>
+    </tbody>
+</table>
+
+
+<!--
 |	Hotel Name	|	Address	|	Room type	|	rates	|	Breakfast	|	City tax	|	promotion code	|
-
 |	Martini Hotel	|	Gedempte Zuiderdiep 8	|	Small double room (1pax)	|	109,50	|	incl.	|	4,00 p.p.p.n	|		|
 |	|		|	Small double room (2pax)	|	129,50	|	incl.	|	4,00 p.p.p.n	|		|
 |	|		|	Standard double room (1pax)	|	129,50	|	incl.	|	4,00 p.p.p.n	|		|
 |	|		|	Standard double room (2pax)	|	149,50	|	incl.	|	4,00 p.p.p.n	|		|
-
 |	The Market Hotel	|	Grote Markt 31	|	Single room	|	180,00	|	incl.	|	incl.	|	492408	|
 |		|		|	Superior room	|	139,00	|	incl.	|	incl.	|	492408	|
 |		|		|	Deluxe room	|	149,00	|	incl.	|	incl.	|	492408	|
-
 |	Hotel Schimmelpenninck Huys	|	Oosterstraat 53	|	Cosy room - single occupancy	|	105,00	|	22,50	|	5,00 p.p.p.n	|		|
 |		|		|	Charme room single occupancy	|	115,00	|	22,50	|	5,00 p.p.p.n	|		|
 |		|		|	Charme room double occupancy	|	169,00	|	22,50	|	5,00 p.p.p.n	|		|
-
 |	Leonardo Hotel Groningen City Center	|	Gedempte Kattendiep 25	|	Comfort Room	|	119,00 (20,00 additional guest)	|	incl.	|	4,00 p.p.p.n	|		|
 |		|		|	Superior Room	|	139,00 (20,00 additional guest)	|	incl.	|	4,00 p.p.p.n	|		|
-
 |	The happy traveler	|	Kleine Kromme Elleboog 5	|	Room single occupancy	|	120,00 	|	incl.	|	incl.	|		|
+-->
 
