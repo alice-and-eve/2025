@@ -266,8 +266,8 @@ Demographically, Groningen is the youngest city in the Netherlands, with student
 
 Founded as early as the 3rd century BC, Groningen has evolved into a lively and modern academic hub, while proudly maintaining its historical identity and welcoming atmosphere.
 
-Want to learn more about Groningen? Visit (https://www.visitgroningen.nl)
-
+Want to learn more about Groningen? Visit [www.visitgroningen.nl](https://www.visitgroningen.nl)
+.
 ## Accommodation
 
 Although the Alice & Eve event is a one-day program, we warmly encourage you to consider extending your stay into a long weekend. This will give you the opportunity to enjoy the city, connect with fellow participants, and make the most of your visit in a relaxed and inspiring atmosphere.
