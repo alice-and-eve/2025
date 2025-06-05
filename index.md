@@ -251,6 +251,13 @@ We are currently looking for sponsors. Contact [Raffaella Carloni](mailto:Raffae
     </div>-->
   </div>
 </div>
+
 ## Contact Us
 
 For questions regarding the workshop, please [contact the organizers](mailto:Dimka Karastoyanova <d.karastoyanova@rug.nl>, Kerstin Bunte <k.bunte@rug.nl>, Raffaella Carloni <r.carloni@rug.nl>, Ayushi Rastogi <a.rastogi@rug.nl>, Jiapan Guo <j.guo@rug.nl>?subject=[Alice and Eve 2025] Question)!
+
+## About Groningen
+
+To be added
+
+
