@@ -172,43 +172,45 @@ This Code of Conduct was adapted from the [Geek Feminism Wiki anti-harassment po
 
 We are currently looking for sponsors. Contact [Raffaella Carloni](mailto:Raffaella Carloni <[r.carloni@rug.nl](https://www.rug.nl/staff/r.carloni/)>?subject=[Alice and Eve 2025] Sponsoring) for more information and a discussion on how your organization could support the 6th Alice and Eve workshop.
 
-<!--
+<div style="text-align: center">
+  <div class="sponsors orga">
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/versen.svg" alt="Logo VERSEN" style="max-width: 200px!important">
+    </div>
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/BetterBe Corporate Identity files 001/betterbe-logo-rgb.png" alt="Logo BetterBe" style="max-width: 100%">
+    </div>
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/duckdb-labs-horizontal-logo-2025.png" alt="Logo DuckDB Foundation" style="max-width: 100%">
+    </div>    
+ </div>
+</div>
+
+<div style="text-align: center">
+  <div class="sponsors orga">
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/powerchainger.png" alt="Logo powerchainger" style="max-width: 100%">
+    </div>    
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/SIDN.png" alt="Logo SIDN Labs" style="max-width: 100%">
+    </div>
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/cwi-logo.png" alt="Logo CWI" style="max-width: 100%">
+    </div>
+ </div>
+</div>
+
 <div style="text-align: center">
   <div class="sponsors orga">
     <div class="margin-top">
       <img src="assets/sponsors-logo/ASCI_Logo.gif" alt="Logo ASCI" style="max-width: 100%">
     </div>
     <div class="margin-top">
-      <img src="assets/sponsors-logo/BetterBe Corporate Identity files 001/betterbe-logo-rgb.png" alt="Logo BetterBe" style="max-width: 100%">
-    </div>
-    <div class="margin-top">
-      <img src="assets/sponsors-logo/SIDN.png" alt="Logo SIDN Labs" style="max-width: 100%">
+      <img src="assets/sponsors-logo/siks300.png" alt="Logo siks" style="max-width: 200px!important">
     </div>
  </div>
 </div>
 
-<div style="text-align: center">
-  <div class="sponsors orga">
-    <div class="margin-top">
-      <img src="assets/sponsors-logo/cwi-logo.png" alt="Logo CWI" style="max-width: 100%">
-    </div>
-    <div class="margin-top">
-      <img src="assets/sponsors-logo/DuckDB_Logo.png" alt="Logo DuckDB Foundation" style="max-width: 100%">
-    </div>
-    <div class="margin-top">
-      <img src="assets/sponsors-logo/nxp-logo.png" alt="Logo NXP" style="max-width: 100%">
-    </div>
- </div>
-</div>
-
-<div style="text-align: center">
-  <div class="sponsors orga">
-    <div class="margin-top">
-      <img src="assets/sponsors-logo/versen.svg" alt="Logo VERSEN" style="max-width: 200px!important">
-    </div>
- </div>
-</div>
--->
 
 <!--
 <div style="text-align: center">
@@ -306,7 +308,6 @@ To facilitate your travel planning, we have pre-reserved a number of rooms at th
         <tr><td>The Happy Traveler</td><td>Kleine Kromme Elleboog 5</td><td>Room single occupancy</td><td>120.00</td><td>incl.</td><td>incl.</td><td></td></tr>
     </tbody>
 </table>
-
 
 <!--
 |	Hotel Name	|	Address	|	Room type	|	rates	|	Breakfast	|	City tax	|	promotion code	|
