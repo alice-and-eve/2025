@@ -306,6 +306,8 @@ To facilitate your travel planning, we have pre-reserved a number of rooms at th
         <tr><td>Superior Room</td><td>139.00 (20.00 additional guest)</td><td>incl.</td><td>4.00 p.p.p.n</td></tr>
 
         <tr><td>The Happy Traveler</td><td>Kleine Kromme Elleboog 5</td><td>Room single occupancy</td><td>120.00</td><td>incl.</td><td>incl.</td><td></td></tr>
+        <tr><td>Asgard Hotel</td><td>Ganzelvoortsingel 2-1</td><td>Single room</td><td>119.00</td><td>18.50</td><td>incl.</td><td></td></tr>
+
     </tbody>
 </table>
 
