@@ -9,7 +9,13 @@ layout: default
 Welcome to our free one-day workshop for celebrating women studying and working in computing!
 Alice & Eve aims to bring together talents in the field of computing. The sixth edition of this workshop will be hosted on **31 October 2025** by the University of Groningen.
 
-Alice and Eve event is inspired by the [BCS Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) that started in 2008. For more details about earlier editions of Alice & Eve, see the websites of [2020](https://fmt.ewi.utwente.nl/events/aliceandeve2020/), [2021](https://aliceandeve.cs.ru.nl/), [2022](https://alice-and-eve.github.io/2022/), [2023](https://alice-and-eve.github.io/2023/) and [2024](https://alice-and-eve.github.io/2024/).
+<!--
+Alice and Eve event is inspired by the [BCS Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) that started in 2008. For more details about earlier editions of Alice & Eve, see the websites of [2020](https://fmt.ewi.utwente.nl/events/aliceandeve2020/), [2021](https://aliceandeve.cs.ru.nl/), [2022](https://alice-and-eve.github.io/2022/), [2023](https://alice-and-eve.github.io/2023/) and [2024](https://alice-and-eve.github.io/2024/).-->
+
+
+Alice and Eve event is inspired by the <a href="https://bcswomenlovelace.bcs.org/" target="_blank" rel="noopener noreferrer">BCS Lovelace Colloquium</a> that started in 2008. For more details about earlier editions of Alice & Eve, see the websites of <a href="https://fmt.ewi.utwente.nl/events/aliceandeve2020/" target="_blank" rel="noopener noreferrer">2020</a>, <a href="https://aliceandeve.cs.ru.nl/" target="_blank" rel="noopener noreferrer">2021</a>, <a href="https://alice-and-eve.github.io/2022/" target="_blank" rel="noopener noreferrer">2022</a>
+, <a href="https://alice-and-eve.github.io/2023/" target="_blank" rel="noopener noreferrer">2023</a>, <a href="https://alice-and-eve.github.io/2024/" target="_blank" rel="noopener noreferrer">2024</a>.
+
 
 The event is held during a single day, and features:
 
@@ -38,7 +44,10 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 
 <!--REGISTRATION IS CLOSED!-->
 
-[SIGN UP HERE](https://forms.gle/7ULkZzgR1zj3w7HG8)
+<a href="https://forms.gle/7ULkZzgR1zj3w7HG8" target="_blank" rel="noopener noreferrer">SIGN UP HERE</a>
+
+<!--
+[SIGN UP HERE](https://forms.gle/7ULkZzgR1zj3w7HG8)-->
 
 ## Program
 
@@ -78,17 +87,17 @@ Congratulations!
 
 ## Exhibition
 
-In addition to the keynote talks and the posters, there will be an [exhibition](https://www.aliceandeve.nl/home) which portrays thirty women in computing and their most important contributions.
+In addition to the keynote talks and the posters, there will be an <a href="https://www.aliceandeve.nl/home" target="_blank" rel="noopener noreferrer">exhibition</a> which portrays thirty women in computing and their most important contributions.
 
 Some highlights of the exhibition:
 
-- [Ada Lovelace](https://www.aliceandeve.nl/exhibition/ada-lovelace) who is known for her work on the sign of the ‘Analytics Machine’, the first ever general-purpose computer, and the first published algorithm;
-- [Grace Hopper](https://www.aliceandeve.nl/exhibition/grace-hopper) who created the world’s first workable compiler and the Grace Hopper Celebration of Women in Computing, an annual conference;
-- [The Bletchley Park Codebreakers](https://www.aliceandeve.nl/exhibition/the-bletchley-park-codebreakers-) included approximately 8,000 women, known as the "Bletchleyettes," whose crucial code-breaking efforts during World War II, including operating cryptographic machinery and breaking complex codes, remain largely unrecognized due to the enduring secrecy of their work.
+- <a href="https://www.aliceandeve.nl/exhibition/ada-lovelace" target="_blank" rel="noopener noreferrer">Ada Lovelace</a> who is known for her work on the sign of the ‘Analytics Machine’, the first ever general-purpose computer, and the first published algorithm;
+- <a href="https://www.aliceandeve.nl/exhibition/grace-hopper" target="_blank" rel="noopener noreferrer">Grace Hopper</a> who created the world’s first workable compiler and the Grace Hopper Celebration of Women in Computing, an annual conference;
+- <a href="https://www.aliceandeve.nl/exhibition/the-bletchley-park-codebreakers-" target="_blank" rel="The Bletchley Park Codebreakers">Grace Hopper</a> included approximately 8,000 women, known as the "Bletchleyettes," whose crucial code-breaking efforts during World War II, including operating cryptographic machinery and breaking complex codes, remain largely unrecognized due to the enduring secrecy of their work.
 
-More information can be found at the [exhibition booklet](https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-13-01-2020.pdf).
+More information can be found at the <a href="https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-13-01-2020.pdf" target="_blank" rel="noopener noreferrer">exhibition booklet</a>. 
 
-Fantastic **[coding games](https://www.aliceandeve.nl/games)** and **[media](https://www.aliceandeve.nl/gallery)** - which include videos and podcasts related to women in computing - are also offered.
+Fantastic **<a href="https://www.aliceandeve.nl/games" target="_blank" rel="noopener noreferrer">coding games</a>** and **<a href="https://www.aliceandeve.nl/gallery" target="_blank" rel="noopener noreferrer">media</a>** - which include videos and podcasts related to women in computing - are also offered.
 
 ## Speakers
 
@@ -268,8 +277,9 @@ For questions regarding the workshop, please [contact the organizers](mailto:Dim
 Groningen is the capital city and main municipality of the province of Groningen, located in the northeast of the Netherlands. With a population of approximately 245,000, it is the largest urban center in the region. Despite its size, Groningen remains a relatively undiscovered and unspoiled part of the country, known for preserving its authenticity and charm.
 
 The city is frequently ranked among the happiest in Europe. In a recent European Commission survey, Groningen was named the third happiest city, with 96% of residents expressing satisfaction with life in the city. It consistently earns high marks in education, public spaces, healthcare, and air quality.
-
+<!--
 Demographically, Groningen is the youngest city in the Netherlands, with students making up around 25% of the population. The city’s strong academic presence and vibrant cultural life make it an attractive destination for young people from across the world.
+-->
 
 Founded as early as the 3rd century BC, Groningen has evolved into a lively and modern academic hub, while proudly maintaining its historical identity and welcoming atmosphere.
 
