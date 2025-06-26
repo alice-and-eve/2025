@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Groningen
-permalink: /aboutGroningen/
+permalink: /aboutGroningen
 ---
 
 ## About Groningen
