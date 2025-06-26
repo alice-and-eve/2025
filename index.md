@@ -189,7 +189,7 @@ We are currently looking for sponsors. Contact [Raffaella Carloni](mailto:Raffae
 <div style="text-align: center">
   <div class="sponsors orga">
     <div class="margin-top">
-      <img src="assets/sponsors-logo/powerchainger.png" alt="Logo powerchainger" style="max-width: 100%">
+      <img src="assets/sponsors-logo/powerchainger-logo 2.png" alt="Logo powerchainger" style="max-width: 100%">
     </div>    
     <div class="margin-top">
       <img src="assets/sponsors-logo/SIDN.png" alt="Logo SIDN Labs" style="max-width: 100%">
