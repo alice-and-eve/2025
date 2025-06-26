@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Registration
-permalink: /registration/
+layout: default
 ---
 
 # Registration:
