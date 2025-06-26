@@ -268,7 +268,7 @@ Demographically, Groningen is the youngest city in the Netherlands, with student
 
 Founded as early as the 3rd century BC, Groningen has evolved into a lively and modern academic hub, while proudly maintaining its historical identity and welcoming atmosphere.
 
-Want to know more about Groningen? Visit [www.visitgroningen.nl](https://www.visitgroningen.nl).
+Want to know more about Groningen? Visit <a href="https://www.visitgroningen.nl" target="_blank" rel="noopener noreferrer">www.visitgroningen.nl</a>.
 
 ## Accommodation
 
