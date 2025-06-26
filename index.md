@@ -103,7 +103,7 @@ Some highlights of the exhibition:
 
 - <a href="https://www.aliceandeve.nl/exhibition/ada-lovelace" target="_blank" rel="noopener noreferrer">Ada Lovelace</a> who is known for her work on the sign of the ‘Analytics Machine’, the first ever general-purpose computer, and the first published algorithm;
 - <a href="https://www.aliceandeve.nl/exhibition/grace-hopper" target="_blank" rel="noopener noreferrer">Grace Hopper</a> who created the world’s first workable compiler and the Grace Hopper Celebration of Women in Computing, an annual conference;
-- <a href="https://www.aliceandeve.nl/exhibition/the-bletchley-park-codebreakers-" target="_blank" rel="The Bletchley Park Codebreakers">Grace Hopper</a> included approximately 8,000 women, known as the "Bletchleyettes," whose crucial code-breaking efforts during World War II, including operating cryptographic machinery and breaking complex codes, remain largely unrecognized due to the enduring secrecy of their work.
+- <a href="https://www.aliceandeve.nl/exhibition/the-bletchley-park-codebreakers-" target="_blank" rel="noopener noreferrer">The Bletchley Park Codebreakers</a> included approximately 8,000 women, known as the "Bletchleyettes," whose crucial code-breaking efforts during World War II, including operating cryptographic machinery and breaking complex codes, remain largely unrecognized due to the enduring secrecy of their work.
 
 More information can be found at the <a href="https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-13-01-2020.pdf" target="_blank" rel="noopener noreferrer">exhibition booklet</a>. 
 
