@@ -317,9 +317,9 @@ To facilitate your travel planning, we have pre-reserved a number of rooms at th
 |	|		|	Small double room (2pax)	|	129,50	|	incl.	|	4,00 p.p.p.n	|		|
 |	|		|	Standard double room (1pax)	|	129,50	|	incl.	|	4,00 p.p.p.n	|		|
 |	|		|	Standard double room (2pax)	|	149,50	|	incl.	|	4,00 p.p.p.n	|		|
-|	The Market Hotel	|	Grote Markt 31	|	Single room	|	180,00	|	incl.	|	incl.	|	492408	|
-|		|		|	Superior room	|	139,00	|	incl.	|	incl.	|	492408	|
-|		|		|	Deluxe room	|	149,00	|	incl.	|	incl.	|	492408	|
+|	The Market Hotel	|	Grote Markt 31	|	Single room	|	180,00	|	incl.	|	incl.	|	AliceenEve15	|
+|		|		|	Superior room	|	139,00	|	incl.	|	incl.	|	AliceenEve15	|
+|		|		|	Deluxe room	|	149,00	|	incl.	|	incl.	|	AliceenEve15	|
 |	Hotel Schimmelpenninck Huys	|	Oosterstraat 53	|	Cosy room - single occupancy	|	105,00	|	22,50	|	5,00 p.p.p.n	|		|
 |		|		|	Charme room single occupancy	|	115,00	|	22,50	|	5,00 p.p.p.n	|		|
 |		|		|	Charme room double occupancy	|	169,00	|	22,50	|	5,00 p.p.p.n	|		|
