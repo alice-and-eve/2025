@@ -1,10 +1,8 @@
 ---
 layout: default
-title: About Groningen
-permalink: /aboutGroningen
 ---
 
-## About Groningen
+# About Groningen
 
 Groningen is the capital city and main municipality of the province of Groningen, located in the northeast of the Netherlands. With a population of approximately 245,000, it is the largest urban center in the region. Despite its size, Groningen remains a relatively undiscovered and unspoiled part of the country, known for preserving its authenticity and charm.
 
@@ -17,7 +15,7 @@ Founded as early as the 3rd century BC, Groningen has evolved into a lively and 
 
 Want to know more about Groningen? Visit <a href="https://www.visitgroningen.nl" target="_blank" rel="noopener noreferrer">www.visitgroningen.nl</a>.
 
-## Accommodation
+# Accommodation
 
 Although the Alice & Eve event is a one-day program, we warmly encourage you to consider extending your stay into a long weekend. This will give you the opportunity to enjoy the city, connect with fellow participants, and make the most of your visit in a relaxed and inspiring atmosphere.
 
