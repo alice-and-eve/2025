@@ -163,12 +163,17 @@ Harassment includes, but is not limited to:
 - Advocating for, or encouraging, any of the above behaviour
   
 Participants asked to stop any harassing behavior are expected to comply immediately. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible by contacting us ether in person or via email.
+
 <!--
 Ilaria Battiston (either in person or via [email](mailto:Ilaria Battiston <ilaria@cwi.nl>)) or Iris Groen (either in person or via [email](mailto:Iris Groen <i.i.a.groen@uva.nl>)).
--->
-This Code of Conduct was adapted from the [Geek Feminism Wiki anti-harassment policy](https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy).
 
-## Our Sponsors
+This Code of Conduct was adapted from the [Geek Feminism Wiki anti-harassment policy](https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy).
+-->
+
+This Code of Conduct was adapted from the <a href="https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy" target="_blank" rel="noopener noreferrer">Geek Feminism Wiki anti-harassment policy</a>.
+
+
+## Sponsors
 
 We are currently looking for sponsors. Contact [Raffaella Carloni](mailto:Raffaella Carloni <[r.carloni@rug.nl](https://www.rug.nl/staff/r.carloni/)>?subject=[Alice and Eve 2025] Sponsoring) for more information and a discussion on how your organization could support the 6th Alice and Eve workshop.
 
