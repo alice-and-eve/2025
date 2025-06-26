@@ -76,6 +76,16 @@ To be announced!
 
 We invite all female students (Bachelor/Master/PhD) and early career researchers of computing and related subjects (in the broadest sense) to submit a poster. The poster could be on any computing topic they like: from social networking to quantum computing and from medical image processing to formal verification. 
 
+<!--
+To enter the poster contest, submit a **half-page abstract** (maximum **250 words**) describing your poster topic by **1 October 2025** via EasyChair:: [https://easychair.org/conferences/?conf=aliceeve2024](https://easychair.org/my/conference?conf=ae250)
+
+Your poster may cover any topic in computing — from social networking to quantum computing, or from medical image processing to formal verification. We welcome you to submit an existing or previously published poster—no need to print it again.
+
+Notification of acceptance will be sent by 11 October 2024. Selected participants are expected to bring their poster to the workshop and present it during the poster session. Posters can be up to A0 size (portrait) or A1 (landscape). Prizes will be awarded at the end of the day for the best posters in each category.
+
+-->
+
+
 <!--Thirty-two posters were short listed for display during the event. This year, we have two best posters:
 
 **Ailsa Robertson**: Your Cryptography Will Be Broken – Act Now!
@@ -309,7 +319,7 @@ To facilitate your travel planning, we have pre-reserved a number of rooms at th
         <tr><td>Standard double room (1pax)</td><td>129.50</td><td>incl.</td><td>4.00 p.p.p.n</td></tr>
         <tr><td>Standard double room (2pax)</td><td>149.50</td><td>incl.</td><td>4.00 p.p.p.n</td></tr>
 
-        <tr><td rowspan="3">The Market Hotel</td><td rowspan="3">Grote Markt 31</td><td>Single room</td><td>180.00</td><td>incl.</td><td>incl.</td><td rowspan="3">492408</td></tr>
+        <tr><td rowspan="3">The Market Hotel</td><td rowspan="3">Grote Markt 31</td><td>Single room</td><td>180.00</td><td>incl.</td><td>incl.</td><td rowspan="3">AliceenEve15</td></tr>
         <tr><td>Superior room</td><td>139.00</td><td>incl.</td><td>incl.</td></tr>
         <tr><td>Deluxe room</td><td>149.00</td><td>incl.</td><td>incl.</td></tr>
 
