@@ -76,14 +76,11 @@ To be announced!
 
 We invite all female students (Bachelor/Master/PhD) and early career researchers of computing and related subjects (in the broadest sense) to submit a poster. The poster could be on any computing topic they like: from social networking to quantum computing and from medical image processing to formal verification. 
 
-<!--
-To enter the poster contest, submit a **half-page abstract** (maximum **250 words**) describing your poster topic by **1 October 2025** via EasyChair:: [https://easychair.org/conferences/?conf=aliceeve2024](https://easychair.org/my/conference?conf=ae250)
+To enter the poster contest, submit a **half-page abstract** (maximum **250 words**) describing your poster topic by **15 September 2025** via EasyChair: <a href="https://easychair.org/my/conference?conf=ae250" target="_blank" rel="noopener noreferrer">https://easychair.org/my/conference?conf=ae250</a>.
 
 Your poster may cover any topic in computing — from social networking to quantum computing, or from medical image processing to formal verification. We welcome you to submit an existing or previously published poster—no need to print it again.
 
-Notification of acceptance will be sent by 11 October 2024. Selected participants are expected to bring their poster to the workshop and present it during the poster session. Posters can be up to A0 size (portrait) or A1 (landscape). Prizes will be awarded at the end of the day for the best posters in each category.
-
--->
+Notification of acceptance will be sent by 22 september 2025. Selected participants are expected to bring their poster to the workshop and present it during the poster session. Posters can be up to A0 size (portrait) or A1 (landscape). Prizes will be awarded at the end of the day for the best posters.
 
 
 <!--Thirty-two posters were short listed for display during the event. This year, we have two best posters:
