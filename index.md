@@ -213,16 +213,19 @@ We are currently looking for sponsors. Contact [Raffaella Carloni](mailto:Raffae
       <img src="assets/sponsors-logo/powerchainger-logo 2.png" alt="Logo powerchainger" style="max-width: 100%">
     </div>    
     <div class="margin-top">
-      <img src="assets/sponsors-logo/SIDN.png" alt="Logo SIDN Labs" style="max-width: 100%">
+      <img src="assets/sponsors-logo/TNO_ifl_zwart.png" alt="Logo TNO" style="max-width: 100%">
     </div>
     <div class="margin-top">
-      <img src="assets/sponsors-logo/cwi-logo.png" alt="Logo CWI" style="max-width: 100%">
+      <img src="assets/sponsors-logo/SIDN.png" alt="Logo SIDN Labs" style="max-width: 100%">
     </div>
  </div>
 </div>
 
 <div style="text-align: center">
   <div class="sponsors orga">
+    <div class="margin-top">
+      <img src="assets/sponsors-logo/cwi-logo.png" alt="Logo CWI" style="max-width: 100%">
+    </div>
     <div class="margin-top">
       <img src="assets/sponsors-logo/ASCI_Logo.gif" alt="Logo ASCI" style="max-width: 100%">
     </div>
