@@ -61,12 +61,12 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 | 11:30 - 12:00  | Talk: **Laura Marchal Crespo** (Delft University of Technology) - **TBA**<br> TBA |
 | 12:00 - 12:30  | Talk: **Giulia Biagioni** (TNO) - **Bridging Trust and Semantics: Enhancing AI Reliability with Description Logics** |
 | 12:30 - 14:00  | Lunch & Exhibition & Demo|
-| 14:00 - 14:45  | Sponsor Lightning Talks <br> **Diana Bozea ** - **BetterBe** - **TBA**<br>TBA <br> **Tania Bogatsch** - **DuckDB** - **TBA**<br>TBA <br> **Yang Soo Kloosterhof** - **Powerchainger** - **TBA** <br> TBA|
+| 14:00 - 14:45  | Sponsor Lightning Talks <br> **Diana Bozea** - **BetterBe** - **TBA**<br>TBA <br> **Tania Bogatsch** - **DuckDB** - **TBA**<br>TBA <br> **Yang Soo Kloosterhof** - **Powerchainger** - **TBA** <br> TBA|
 | 14:45 - 15:15  | Talk: **Sara Colombo** (Delft University of Technology) - **TBA**<br> TBA |
 | 15:15 - 15:30  | Coffee Break |
 | 15:30 - 16:00  | Talk: **Suzan Bayhan** (Univeristy of Twente) - **Towards More Sustainable Mobile Networks** <br> Wireless networks have significant potential to reduce environmental impact across key sectors, such as transportation and agriculture, by enabling smarter decision-making and enhancing efficiency through data collection and processing. However, the environmental costs of the communication networks themselves must not be overlooked. With the ITU-T’s and EU’s goals to cut the emissions significantly (e.g., around 50%) across all sectors by 2030, it is paramount to examine the sustainability of mobile networks which we rely on increasingly. In this talk, I will present the latest efforts to make mobile networks more sustainable with a particular focus on energy efficiency and share some highlights from our research on the potential of infrastructure sharing towards more sustainable mobile networks. |
 | 16:00 - 16:15  | Poster Awards |
-| 16:15 - 17:00  | Panel: **The Future of Computing** <br> Moderator: Petra Rudolf <br> Speakers: [Marielle Stoelinga](https://personen.utwente.nl/m.i.a.stoelinga) (Univeristy of Twente), [Lynda Hardman](https://www.cwi.nl/en/people/lynda-hardman/) (CWI), TBA |
+| 16:15 - 17:00  | Panel: **The Future of Computing** <br> Moderator: [Petra Rudolf](https://www.rug.nl/staff/p.rudolf/?lang=en) (University of Groningen) <br> Speakers: [Marielle Stoelinga](https://personen.utwente.nl/m.i.a.stoelinga) (Univeristy of Twente), [Lynda Hardman](https://www.cwi.nl/en/people/lynda-hardman/) (CWI), TBA |
 | 17:00 - 18:00  | Goodbye Drinks |
 
 
@@ -108,37 +108,33 @@ Fantastic **<a href="https://www.aliceandeve.nl/games" target="_blank" rel="noop
 
 To be announced!
 
-<!--
-We have invited some inspiring women working on the cutting edge of computing. Confirmed speakers include:
+We have invited some inspiring women working on the cutting edge of computing. Confirmed keynote speakers include:
   
-- **[Suzan Verberne](https://liacs.leidenuniv.nl/~verbernes/)**, Professor at U Leiden
+- **[Natasha  Maurits](https://www.rug.nl/staff/n.m.maurits/?lang=en)**, Professor at Univeristy Medical Center Groningen, Univeristy of Groningen
   
-  I am a researcher in Natural Language Processing (NLP) and Information Retrieval (IR). My research focus is text mining and information retrieval in specific domains. I am a Full Professor at the Leiden Institute of Advanced Computer Science (LIACS). I am group leader of Text Mining and Retrieval Leiden.
-  My vision is that domain-specific challenges can enable breakthroughs in computer science; more specifically in my fields NLP and IR. I currently supervise projects that develop and evaluate NLP and retrieval methods in a diversity of domains. I am work package leader for two H2020 projects and project co-leader of an NWA project.
-  My group works on novel methods for representation learning, ranking, and information extraction. We work with a large diversity of textual data: archaeological reports, patents, scientific and legal publications, health records, newspaper texts, user-generated content in online patient communities (discussion forums), and posts on social media.
+  Natasha Maurits (Applied Mathematics (MSc 1994), Biophysical Chemistry (PhD 1998)), is full professor of Clinical Neuroengineering at the department of Neurology of the University Medical Center Groningen, the Netherlands, as well as Chief Scientific Information Officer (CSIO) of the UMCG. She is also visiting professor at the University of Lincoln (UK). Her research focuses on clinical neuroengineering, in particular biomedical signal analysis, multimodal neuroimaging, high-density EEG recording, visualization of high-dimensional data and home-based diagnosis and monitoring with (machine learning) applications in neurology (movement disorders, dementia, stroke, trauma) and cognition (healthy ageing). She has published more than 200 international peer-reviewed papers as well as two books: From neurology to methodology and back: an introduction to clinical neuroengineering (2012) and Math for scientists: refreshing the essentials (2017, 2nd ed 2023), both with Springer. Furthermore, she is a senior member of IEEE, member of the Scientific Advisory Board of the Lincoln School of Mathematics and Physics (UK) and chair of the Dutch Biomedical Engineering Conference.
 
-- **[Niki van Stein](https://www.nikivanstein.nl/)**, Assistant professor U Leiden
+- **[Estefania Talavera](https://estefaniatalavera.github.io//)**, Assistant professor at University of Twente
   
-  Dr. Niki van Stein is a researcher, heading the XAI group, which is part of the Natural Computing Cluster of LIACS, and manager of the applied data science lab. She received her PhD in Computer Science from Leiden University in 2018. Niki’s research interest are in eXplainable AI for automated machine learning, global (Bayesian) optimization and neural architecture search. She mostly works on research with direct applications in industry, such as predictive maintenance, car and ship design optimization and schedule optimization.
-
-- **[Antonia Affinito](https://people.utwente.nl/a.affinito)**, Assistant Professor at U Twente
+  Dr. Estefania Talavera is an Assistant Professor in the Data Management and Biometrics research group at the University of Twente, The Netherlands. Prior to joining the University of Twente, she was a lecturer and researcher in the Information Systems group at the University of Groningen. She obtained her PhD degree in Computer Science from the University of Groningen and the University of Barcelona in 2020. Her research interests are in learning-based approaches for behaviour understanding, data mining, and health applications. She has co-organised several workshops on DEI in computer vision conferences such as LXCV @CVPR22, @ECCV22, @CVPR23, @ICCV23 and WiCV @CVPR24 and @CVPR25.
   
-  I am an Assistant Professor at the Design and Analysis of Communication Systems (DACS) group at the University of Twente. My research interests lie in the fields of Internet measurements and cyber threats detection. In 2023, I defended my thesis “Malicious and Large-Scale Phenomena over the Internet: An Analysis based on DNS” at the University of Napoli "Federico II" in Italy.
-
-- **[Gabriele Keller](https://www.uu.nl/staff/GKKeller)**, Professor at U Utrecht
+- **[Laura Marchal Crespo](https://www.tudelft.nl/en/staff/l.marchalcrespo/)**, Associate Professor at Delft University of Technology
   
-  My main research interests are functional programming, type systems, high-performance computing, and programming language based approaches to verification. I'm also interested in teaching of functional programming, and have co-authored the (still incomplete) Learning Haskell Tutorial together with Manuel Chakravarty.
+  TBA
 
-- **[Katja Tuma](https://katjatuma.github.io/)**, Assistant professor at VU Amsterdam
+- **[Giulia Biagioni]()**, Scientist at TNO
   
-  In 2021 I joined the Foundational and Experimental Security research group as Assistant Professor (Universitair docent 2) and am working at the Department of Computer Science at Vrije Universiteit Amsterdam within the Computer Systems group. I hold a Ph.D. in Computer Science and Engineering, which I completed at the University of Gothenburg. I am an active member of EUGAIN (WG3: From Ph.D. to Professor), and diversity co-officer for CSE department at the VU.
+  Giulia Biagioni is a scientist in the Advanced Computing Engineering (ACE) department at the Netherlands Organization for Applied Scientific Research (TNO), where she focuses on semantic-driven framework for interoperability and Hybrid AI. At TNO, she has contributed to the development of European RDF-based standards within the SAREF framework of ontologies for EU data spaces, now maintained by ETSI. She leads the semantic strategy for the Important Project of Common European Interest (IPCEI) on Cloud Infrastructure and Services (CIS), known as ECOFED, where she oversees the design and implementation of ontology-driven interoperability across cloud platforms. Alongside ECOFED, Giulia is technical leader and co-applicant on Manuscript AI, an EU-funded proof-of-concept that leverages AI to tackle data interoperability in the cultural heritage domain, unlocking richer, interconnected access to Europe’s digitized manuscripts and artifacts.
 
-- **[Anna Wilbik](https://www.maastrichtuniversity.nl/m-wilbik)**, Professor at U Maastricht
+- **[Sara Colombo](https://www.tudelft.nl/io/over-io/personen/colombo-s)**, Assistant professor at Delft University of Technology
   
-  I am a researcher who aims at bridging the gap between the meaning of data and human understanding in complex application environments, where data can be of various natures. I am also an academic teacher and mentor, who believes that students learn most, when they are given responsibility and freedom in their learning process. I believe in an international orientation in research and teaching and a balance between academic, curiosity-driven research and industrial, problem-oriented research.
+  TBA
 
--->
+- **[Suzan Bayhan](https://people.utwente.nl/suzan.bayhan)**, Associate Professor at University of Twente
+  
+  Suzan Bayhan is an Associate Professor at the University of Twente, Design and Analysis of Communication Systems (DACS) and affiliated with EDGE research center at the UT.  Her research aims at understanding, designing, and developing solutions for current and future wireless networks to contribute to a resilient and sustainable communications systems. Suzan is currently the Scientific Director of 4TU.NIRICT- the Netherlands Institute for Research on ICT. 
 
+  
 ## Jobs Board
 
 During the conference, there will be the possibility for attendees to advertise open positions in their university/company. Furthermore, participants looking for jobs are also welcome to post their credentials and type of job/internship they are looking for. Job postings are under the following rules:
