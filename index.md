@@ -59,9 +59,9 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 | 10:40 - 11:10  | Talk: **Estefania Talavera** (Univeristy of Twente)- **Towards human behavior understanding from videos**<br>Understanding human behavior from videos from an egocentric and exocentric point of view is becoming increasingly relevant in the field of computer vision due to its applications in assistive AI. In this talk, I will give an overview of my research in this field, going from my PhD work in egocentric photostream understanding to the field of surveillance video analysis. In addition, I will present the baseline idea of my recently awarded NWO-VENI entitled “Understanding social interactions in first-person videos with multimodal learning”. |
 | 11:10 - 11:30  | Coffee Break |
 | 11:30 - 12:00  | Talk: **Laura Marchal Crespo** (Delft University of Technology) - **TBA**<br> TBA |
-| 12:00 - 12:30  | Talk: **Giulia Biagioni** (TNO) - **Bridging Trust and Semantics: Enhancing AI Reliability with Description Logics** |
+| 12:00 - 12:30  | Talk: **Giulia Biagioni** (TNO) - **Bridging Trust and Semantics: Enhancing AI Reliability with Description Logics** <br> TBA|
 | 12:30 - 14:00  | Lunch & Exhibition & Demo|
-| 14:00 - 14:45  | Sponsor Lightning Talks <br> **Diana Bozea** - **BetterBe** - **TBA**<br>TBA <br> **Tania Bogatsch** - **DuckDB** - **TBA**<br>TBA <br> **Yang Soo Kloosterhof** - **Powerchainger** - **TBA** <br> TBA|
+| 14:00 - 14:45  | Sponsor Lightning Talks <br> **Diana Bozea** (BetterBe) - **TBA**<br>TBA <br> **Tania Bogatsch** (DuckDB) - **TBA**<br>TBA <br> **Yang Soo Kloosterhof** (Powerchainger) - **TBA** <br> TBA|
 | 14:45 - 15:15  | Talk: **Sara Colombo** (Delft University of Technology) - **TBA**<br> TBA |
 | 15:15 - 15:30  | Coffee Break |
 | 15:30 - 16:00  | Talk: **Suzan Bayhan** (Univeristy of Twente) - **Towards More Sustainable Mobile Networks** <br> Wireless networks have significant potential to reduce environmental impact across key sectors, such as transportation and agriculture, by enabling smarter decision-making and enhancing efficiency through data collection and processing. However, the environmental costs of the communication networks themselves must not be overlooked. With the ITU-T’s and EU’s goals to cut the emissions significantly (e.g., around 50%) across all sectors by 2030, it is paramount to examine the sustainability of mobile networks which we rely on increasingly. In this talk, I will present the latest efforts to make mobile networks more sustainable with a particular focus on energy efficiency and share some highlights from our research on the potential of infrastructure sharing towards more sustainable mobile networks. |
@@ -107,6 +107,14 @@ Fantastic **<a href="https://www.aliceandeve.nl/games" target="_blank" rel="noop
 ## Speakers
 
 We have invited some inspiring women working on the cutting edge of computing. Confirmed keynote speakers include:
+
+<img src="/assets/profile-pictures/keynote25_Maurits.jpg" alt="Natasha Maurits"
+     style="float:left;width:160px;height:auto;margin:0 .9rem .6rem 0;border-radius:8px;">
+<p><strong><a href="https://www.rug.nl/staff/n.m.maurits/?lang=en">Natasha Maurits</a></strong>, 
+Professor at University Medical Center Groningen, University of Groningen</p>
+<p>Natasha Maurits (Applied Mathematics (MSc 1994), Biophysical Chemistry (PhD 1998)), is full professor of Clinical Neuroengineering at the department of Neurology of the University Medical Center Groningen, the Netherlands, as well as Chief Scientific Information Officer (CSIO) of the UMCG. She is also visiting professor at the University of Lincoln (UK). Her research focuses on clinical neuroengineering, in particular biomedical signal analysis, multimodal neuroimaging, high-density EEG recording, visualization of high-dimensional data and home-based diagnosis and monitoring with (machine learning) applications in neurology (movement disorders, dementia, stroke, trauma) and cognition (healthy ageing). She has published more than 200 international peer-reviewed papers as well as two books: From neurology to methodology and back: an introduction to clinical neuroengineering (2012) and Math for scientists: refreshing the essentials (2017, 2nd ed 2023), both with Springer. Furthermore, she is a senior member of IEEE, member of the Scientific Advisory Board of the Lincoln School of Mathematics and Physics (UK) and chair of the Dutch Biomedical Engineering Conference.</p>
+<div style="clear:both"></div> <!-- stop wrapping for the next section -->
+
   
 - **[Natasha  Maurits](https://www.rug.nl/staff/n.m.maurits/?lang=en)**, Professor at Univeristy Medical Center Groningen, Univeristy of Groningen
   
