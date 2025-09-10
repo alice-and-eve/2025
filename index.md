@@ -66,7 +66,7 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 | 15:15 - 15:30  | Coffee Break |
 | 15:30 - 16:00  | Talk: **Suzan Bayhan** (Univeristy of Twente) - **Towards More Sustainable Mobile Networks** <br> Wireless networks have significant potential to reduce environmental impact across key sectors, such as transportation and agriculture, by enabling smarter decision-making and enhancing efficiency through data collection and processing. However, the environmental costs of the communication networks themselves must not be overlooked. With the ITU-T’s and EU’s goals to cut the emissions significantly (e.g., around 50%) across all sectors by 2030, it is paramount to examine the sustainability of mobile networks which we rely on increasingly. In this talk, I will present the latest efforts to make mobile networks more sustainable with a particular focus on energy efficiency and share some highlights from our research on the potential of infrastructure sharing towards more sustainable mobile networks. |
 | 16:00 - 16:15  | Poster Awards |
-| 16:15 - 17:00  | Panel: **The Future of Computing** <br> Moderator: [Petra Rudolf](https://www.rug.nl/staff/p.rudolf/?lang=en) (University of Groningen) <br> Speakers: [Mariëlle Stoelinga](https://personen.utwente.nl/m.i.a.stoelinga) (Univeristy of Twente), [Lynda Hardman](https://www.cwi.nl/en/people/lynda-hardman/) (CWI), TBA |
+| 16:15 - 17:00  | Panel: **The Future of Computing** <br> Moderator: <a href="https://www.rug.nl/staff/p.rudolf/?lang=en" target="_blank" rel="noopener noreferrer">Petra Rudolf</a> (University of Groningen) <br> Speakers: <a href="https://personen.utwente.nl/m.i.a.stoelinga" rel="noopener noreferrer">Mariëlle Stoelinga</a> (Univeristy of Twente), <a href="https://www.cwi.nl/en/people/lynda-hardman/" rel="noopener noreferrer">Lynda Hardman</a> (CWI), TBA |
 | 17:00 - 18:00  | Goodbye Drinks |
 
 
@@ -109,27 +109,27 @@ Fantastic **<a href="https://www.aliceandeve.nl/games" target="_blank" rel="noop
 We have invited some inspiring women working on the cutting edge of computing. Confirmed keynote speakers include:
 
   
-- **[Natasha  Maurits](https://www.rug.nl/staff/n.m.maurits/?lang=en)**, Professor at Univeristy Medical Center Groningen, Univeristy of Groningen
+- **<a href="https://www.rug.nl/staff/n.m.maurits/?lang=en" rel="noopener noreferrer">Natasha  Maurits</a>**, Professor at Univeristy Medical Center Groningen, Univeristy of Groningen
   
   Natasha Maurits (Applied Mathematics (MSc 1994), Biophysical Chemistry (PhD 1998)), is full professor of Clinical Neuroengineering at the department of Neurology of the University Medical Center Groningen, the Netherlands, as well as Chief Scientific Information Officer (CSIO) of the UMCG. She is also visiting professor at the University of Lincoln (UK). Her research focuses on clinical neuroengineering, in particular biomedical signal analysis, multimodal neuroimaging, high-density EEG recording, visualization of high-dimensional data and home-based diagnosis and monitoring with (machine learning) applications in neurology (movement disorders, dementia, stroke, trauma) and cognition (healthy ageing). She has published more than 200 international peer-reviewed papers as well as two books: From neurology to methodology and back: an introduction to clinical neuroengineering (2012) and Math for scientists: refreshing the essentials (2017, 2nd ed 2023), both with Springer. Furthermore, she is a senior member of IEEE, member of the Scientific Advisory Board of the Lincoln School of Mathematics and Physics (UK) and chair of the Dutch Biomedical Engineering Conference.
 
-- **[Estefania Talavera](https://estefaniatalavera.github.io//)**, Assistant professor at University of Twente
+- **<a href="https://estefaniatalavera.github.io//" rel="noopener noreferrer">Estefania Talavera</a>**, Assistant professor at University of Twente
   
   Dr. Estefania Talavera is an Assistant Professor in the Data Management and Biometrics research group at the University of Twente, The Netherlands. Prior to joining the University of Twente, she was a lecturer and researcher in the Information Systems group at the University of Groningen. She obtained her PhD degree in Computer Science from the University of Groningen and the University of Barcelona in 2020. Her research interests are in learning-based approaches for behaviour understanding, data mining, and health applications. She has co-organised several workshops on DEI in computer vision conferences such as LXCV @CVPR22, @ECCV22, @CVPR23, @ICCV23 and WiCV @CVPR24 and @CVPR25.
   
-- **[Laura Marchal Crespo](https://www.tudelft.nl/en/staff/l.marchalcrespo/)**, Associate Professor at Delft University of Technology
+- **<a href="https://www.tudelft.nl/en/staff/l.marchalcrespo/" rel="noopener noreferrer">Laura Marchal Crespo</a>**, Associate Professor at Delft University of Technology
   
   TBA
 
-- **[Giulia Biagioni]()**, Scientist at TNO
+- **<a href="https://www.linkedin.com/in/giulia-biagioni/" rel="noopener noreferrer">Giulia Biagioni</a>**, Scientist at TNO
   
   Giulia Biagioni is a scientist in the Advanced Computing Engineering (ACE) department at the Netherlands Organization for Applied Scientific Research (TNO), where she focuses on semantic-driven framework for interoperability and Hybrid AI. At TNO, she has contributed to the development of European RDF-based standards within the SAREF framework of ontologies for EU data spaces, now maintained by ETSI. She leads the semantic strategy for the Important Project of Common European Interest (IPCEI) on Cloud Infrastructure and Services (CIS), known as ECOFED, where she oversees the design and implementation of ontology-driven interoperability across cloud platforms. Alongside ECOFED, Giulia is technical leader and co-applicant on Manuscript AI, an EU-funded proof-of-concept that leverages AI to tackle data interoperability in the cultural heritage domain, unlocking richer, interconnected access to Europe’s digitized manuscripts and artifacts.
 
-- **[Sara Colombo](https://www.tudelft.nl/io/over-io/personen/colombo-s)**, Assistant professor at Delft University of Technology
+- **<a href="https://www.tudelft.nl/io/over-io/personen/colombo-s" rel="noopener noreferrer">Sara Colombo</a>**, Assistant professor at Delft University of Technology
   
   TBA
 
-- **[Suzan Bayhan](https://people.utwente.nl/suzan.bayhan)**, Associate Professor at University of Twente
+- **<a href="https://people.utwente.nl/suzan.bayhan" rel="noopener noreferrer">Suzan Bayhan</a>**, Associate Professor at University of Twente
   
   Suzan Bayhan is an Associate Professor at the University of Twente, Design and Analysis of Communication Systems (DACS) and affiliated with EDGE research center at the UT.  Her research aims at understanding, designing, and developing solutions for current and future wireless networks to contribute to a resilient and sustainable communications systems. Suzan is currently the Scientific Director of 4TU.NIRICT- the Netherlands Institute for Research on ICT. 
 
