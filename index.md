@@ -51,8 +51,6 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 
 ## Program
 
-To be announced!
-<!--
 | Time |  |
 |---|---|
 | 09:30 - 10:00  | Welcome coffee (The Launch)|
@@ -70,7 +68,7 @@ To be announced!
 | 16:00 - 16:15  | Poster Awards |
 | 16:15 - 17:00  | Panel: **The Future of Computing** <br> Moderator: Petra Rudolf <br> Speakers: [Marielle Stoelinga](https://personen.utwente.nl/m.i.a.stoelinga) (Univeristy of Twente), [Lynda Hardman](https://www.cwi.nl/en/people/lynda-hardman/) (CWI), TBA |
 | 17:00 - 18:00  | Goodbye Drinks |
--->
+
 
 ## Poster Contest
 
