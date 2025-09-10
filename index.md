@@ -53,7 +53,7 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 
 | Time |  |
 |---|---|
-| 09:30 - 10:00  | Welcome coffee (The Launch)|
+| 09:30 &nbsp;–&nbsp; 10:00  | Welcome coffee (The Launch)|
 | 10:00 - 10:10  | Joost Frenken, Dean Faculty of Science and Engineering |
 | 10:10 - 10:40  | Talk: **Natasha Maurits** (University Medical Center Groningen) - **Finding hidden patterns in neurological data**<br>I will give a general introduction on patterns in data and different types of algorithms one can use to analyze data. Then I will give some examples of my research where machine learning algorithms are used as pattern finding algorithms. Applications are in diagnosing ataxia in children and in predicting bradykinesia scores in Parkinson patients, using video and sesor data. If there is time, I might also talk about generating artificial EEG data using neural networks. |
 | 10:40 - 11:10  | Talk: **Estefania Talavera** (Univeristy of Twente)- **Towards human behavior understanding from videos**<br>Understanding human behavior from videos from an egocentric and exocentric point of view is becoming increasingly relevant in the field of computer vision due to its applications in assistive AI. In this talk, I will give an overview of my research in this field, going from my PhD work in egocentric photostream understanding to the field of surveillance video analysis. In addition, I will present the baseline idea of my recently awarded NWO-VENI entitled “Understanding social interactions in first-person videos with multimodal learning”. |
