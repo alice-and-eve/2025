@@ -108,13 +108,6 @@ Fantastic **<a href="https://www.aliceandeve.nl/games" target="_blank" rel="noop
 
 We have invited some inspiring women working on the cutting edge of computing. Confirmed keynote speakers include:
 
-<img src="/assets/profile-pictures/keynote25_Maurits.jpg" alt="Natasha Maurits"
-     style="float:left;width:160px;height:auto;margin:0 .9rem .6rem 0;border-radius:8px;">
-<p><strong><a href="https://www.rug.nl/staff/n.m.maurits/?lang=en">Natasha Maurits</a></strong>, 
-Professor at University Medical Center Groningen, University of Groningen</p>
-<p>Natasha Maurits (Applied Mathematics (MSc 1994), Biophysical Chemistry (PhD 1998)), is full professor of Clinical Neuroengineering at the department of Neurology of the University Medical Center Groningen, the Netherlands, as well as Chief Scientific Information Officer (CSIO) of the UMCG. She is also visiting professor at the University of Lincoln (UK). Her research focuses on clinical neuroengineering, in particular biomedical signal analysis, multimodal neuroimaging, high-density EEG recording, visualization of high-dimensional data and home-based diagnosis and monitoring with (machine learning) applications in neurology (movement disorders, dementia, stroke, trauma) and cognition (healthy ageing). She has published more than 200 international peer-reviewed papers as well as two books: From neurology to methodology and back: an introduction to clinical neuroengineering (2012) and Math for scientists: refreshing the essentials (2017, 2nd ed 2023), both with Springer. Furthermore, she is a senior member of IEEE, member of the Scientific Advisory Board of the Lincoln School of Mathematics and Physics (UK) and chair of the Dutch Biomedical Engineering Conference.</p>
-<div style="clear:both"></div> <!-- stop wrapping for the next section -->
-
   
 - **[Natasha  Maurits](https://www.rug.nl/staff/n.m.maurits/?lang=en)**, Professor at Univeristy Medical Center Groningen, Univeristy of Groningen
   
