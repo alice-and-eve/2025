@@ -53,8 +53,8 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 
 | Time |  |
 |---|---|
-| 09:30 &nbsp;–&nbsp; 10:00  | Welcome coffee (The Launch)|
-| 10:00 - 10:10  | Joost Frenken, Dean Faculty of Science and Engineering |
+| 09:30 - 10:00  | Welcome coffee |
+| 10:00 - 10:10  | Opening: Joost Frenken, Dean Faculty of Science and Engineering |
 | 10:10 - 10:40  | Talk: **Natasha Maurits** (University Medical Center Groningen) - **Finding hidden patterns in neurological data**<br>I will give a general introduction on patterns in data and different types of algorithms one can use to analyze data. Then I will give some examples of my research where machine learning algorithms are used as pattern finding algorithms. Applications are in diagnosing ataxia in children and in predicting bradykinesia scores in Parkinson patients, using video and sesor data. If there is time, I might also talk about generating artificial EEG data using neural networks. |
 | 10:40 - 11:10  | Talk: **Estefania Talavera** (Univeristy of Twente)- **Towards human behavior understanding from videos**<br>Understanding human behavior from videos from an egocentric and exocentric point of view is becoming increasingly relevant in the field of computer vision due to its applications in assistive AI. In this talk, I will give an overview of my research in this field, going from my PhD work in egocentric photostream understanding to the field of surveillance video analysis. In addition, I will present the baseline idea of my recently awarded NWO-VENI entitled “Understanding social interactions in first-person videos with multimodal learning”. |
 | 11:10 - 11:30  | Coffee Break |
@@ -66,7 +66,7 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 | 15:15 - 15:30  | Coffee Break |
 | 15:30 - 16:00  | Talk: **Suzan Bayhan** (Univeristy of Twente) - **Towards More Sustainable Mobile Networks** <br> Wireless networks have significant potential to reduce environmental impact across key sectors, such as transportation and agriculture, by enabling smarter decision-making and enhancing efficiency through data collection and processing. However, the environmental costs of the communication networks themselves must not be overlooked. With the ITU-T’s and EU’s goals to cut the emissions significantly (e.g., around 50%) across all sectors by 2030, it is paramount to examine the sustainability of mobile networks which we rely on increasingly. In this talk, I will present the latest efforts to make mobile networks more sustainable with a particular focus on energy efficiency and share some highlights from our research on the potential of infrastructure sharing towards more sustainable mobile networks. |
 | 16:00 - 16:15  | Poster Awards |
-| 16:15 - 17:00  | Panel: **The Future of Computing** <br> Moderator: [Petra Rudolf](https://www.rug.nl/staff/p.rudolf/?lang=en) (University of Groningen) <br> Speakers: [Marielle Stoelinga](https://personen.utwente.nl/m.i.a.stoelinga) (Univeristy of Twente), [Lynda Hardman](https://www.cwi.nl/en/people/lynda-hardman/) (CWI), TBA |
+| 16:15 - 17:00  | Panel: **The Future of Computing** <br> Moderator: [Petra Rudolf](https://www.rug.nl/staff/p.rudolf/?lang=en) (University of Groningen) <br> Speakers: [Mariëlle Stoelinga](https://personen.utwente.nl/m.i.a.stoelinga) (Univeristy of Twente), [Lynda Hardman](https://www.cwi.nl/en/people/lynda-hardman/) (CWI), TBA |
 | 17:00 - 18:00  | Goodbye Drinks |
 
 
@@ -105,8 +105,6 @@ More information can be found at the <a href="https://fmt.ewi.utwente.nl/events/
 Fantastic **<a href="https://www.aliceandeve.nl/games" target="_blank" rel="noopener noreferrer">coding games</a>** and **<a href="https://www.aliceandeve.nl/gallery" target="_blank" rel="noopener noreferrer">media</a>** - which include videos and podcasts related to women in computing - are also offered.
 
 ## Speakers
-
-To be announced!
 
 We have invited some inspiring women working on the cutting edge of computing. Confirmed keynote speakers include:
   
@@ -158,7 +156,7 @@ During the conference, there will be the possibility for attendees to advertise 
 - [Cynthia Liem](https://www.cynthialiem.com/), Technische Universiteit Delft (TUD)
 - [Alma Schaafstal](https://people.utwente.nl/a.m.schaafstal), Universiteit Twente (UT)
 - [Alexander Serebrenik](https://www.win.tue.nl/~aserebre/), Technische Universiteit Eindhoven (TU/e)
-- [Mariëlle Stoelinga](https://wwwhome.ewi.utwente.nl/~marielle/), Universiteit Twente (UT)
+- [Mariëlle Stoelinga](https://personen.utwente.nl/m.i.a.stoelinga), Universiteit Twente (UT)
 
 ## Code of Conduct
 Alice and Eve is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of conference participants in any form. Conference participants violating these rules may be sanctioned or expelled from the conference at the discretion of the conference organizers.
