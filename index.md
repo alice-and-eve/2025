@@ -38,7 +38,7 @@ The workshop will be held on Zernike campus in Bernoulliborg on the first floor,
 
 <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2447.751991104805!2d4.482933476457672!3d52.15701986304036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5c6f2447daae3%3A0x48e9dc4f075bb167!2z6I6x6aG_5aSn5a2m!5e0!3m2!1szh-CN!2snl!4v1710771504599!5m2!1snl!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
 
-### Registration:
+### Registration (closes on 24 October):
 
 The registration is free and includes coffee breaks, lunch and drinks. We welcome everyone of **all genders**, **from bachelor students to full professors**, to attend the event.
 
@@ -72,11 +72,13 @@ The registration is free and includes coffee breaks, lunch and drinks. We welcom
 
 ## Poster Contest
 
-We invite all female students (Bachelor/Master/PhD) and early career researchers of computing and related subjects (in the broadest sense) to submit a poster. The poster could be on any computing topic they like: from social networking to quantum computing and from medical image processing to formal verification. 
+We invite all female students (Bachelor/Master/PhD) and early career researchers of computing and related subjects (in the broadest sense) to submit a poster. The poster could be on any computing topic they like: from social networking to quantum computing and from medical image processing to formal verification. We welcome you to submit an existing or previously published poster—no need to print it again.
 
-To enter the poster contest, submit a **half-page abstract** (maximum **250 words**) describing your poster topic by **15 September 2025** via EasyChair: <a href="https://easychair.org/my/conference?conf=ae250" target="_blank" rel="noopener noreferrer">https://easychair.org/my/conference?conf=ae250</a>.
+<!--To enter the poster contest, submit a **half-page abstract** (maximum **250 words**) describing your poster topic by **15 September 2025** via EasyChair: <a href="https://easychair.org/my/conference?conf=ae250" target="_blank" rel="noopener noreferrer">https://easychair.org/my/conference?conf=ae250</a>.
+
 
 Your poster may cover any topic in computing — from social networking to quantum computing, or from medical image processing to formal verification. We welcome you to submit an existing or previously published poster—no need to print it again.
+-->
 
 Notification of acceptance will be sent by 22 september 2025. Selected participants are expected to bring their poster to the workshop and present it during the poster session. Posters can be up to A0 size (portrait) or A1 (landscape). Prizes will be awarded at the end of the day for the best posters.
 
