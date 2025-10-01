@@ -236,7 +236,7 @@ We are currently looking for sponsors. Contact [Raffaella Carloni](mailto:Raffae
       <img src="assets/sponsors-logo/NWO logo - full colour - RGB - transparent background.png" alt="Logo NWO" style="width:100px;height:auto;">
     </div>
     <div class="margin-top">
-      <img src="assets/sponsors-logo/logo-balk-bernoulli.png" alt="Logo BI" style="width:320px;height:auto;">
+      <img src="assets/sponsors-logo/logo-balk-bernoulli.png" alt="Logo BI" style="width:420px;height:auto;">
     </div>
  </div>
 </div>
