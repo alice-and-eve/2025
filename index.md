@@ -123,9 +123,9 @@ We have invited some inspiring women working on the cutting edge of computing. C
   
   Laura Marchal-Crespo is an Associate Professor at the Department of Cognitive Robotics, Faculty 3mE (Mechanical, Maritime, and Materials Engineering), Delft University of Technology, The Netherlands. She is also affiliated with the ARTORG Center for Biomedical Engineering Research, University of Bern, Switzerland. 
 
-She obtained her M.Sc. and Ph.D. degrees from the University of California at Irvine, USA, studying robotics and virtual reality to enhance motor learning and neurorehabilitation. She then joined the Sensory-Motor Systems, ETH Zurich, as a postdoc researcher. In 2017, she obtained a Swiss National Science Foundation (SNSF) Professorship and joined the ARTORG Center, University of Bern, Switzerland, as medical faculty.  
+  She obtained her M.Sc. and Ph.D. degrees from the University of California at Irvine, USA, studying robotics and virtual reality to enhance motor learning and neurorehabilitation. She then joined the Sensory-Motor Systems, ETH Zurich, as a postdoc researcher. In 2017, she obtained a Swiss National Science Foundation (SNSF) Professorship and joined the ARTORG Center, University of Bern, Switzerland, as medical faculty.  
 
-She became an Associate Professor at the Delft University of Technology in September 2020. She carries out research in the general areas of human-machine interfaces and biological learning, and, specifically, in the use of robotic assistance and virtual reality to aid people in learning motor tasks and rehabilitate after neurologic injuries.
+  She became an Associate Professor at the Delft University of Technology in September 2020. She carries out research in the general areas of human-machine interfaces and biological learning, and, specifically, in the use of robotic assistance and virtual reality to aid people in learning motor tasks and rehabilitate after neurologic injuries.
 
 - **<a href="https://www.linkedin.com/in/giulia-biagioni/" target="_blank" rel="noopener noreferrer">Giulia Biagioni</a>**, Scientist at TNO
   
