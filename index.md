@@ -161,12 +161,13 @@ During the conference, there will be the possibility for attendees to advertise 
 ## Steering committee
 
 - [Marieke Huisman](https://people.utwente.nl/m.huisman), Universiteit Twente (UT)
-- [Sophie Lathouwers](https://wwwhome.ewi.utwente.nl/~lathouwerssam/), Universiteit Twente (UT)
-- [Cynthia Liem](https://www.cynthialiem.com/), Technische Universiteit Delft (TUD)
-- [Alma Schaafstal](https://people.utwente.nl/a.m.schaafstal), Universiteit Twente (UT)
-- [Alexander Serebrenik](https://www.win.tue.nl/~aserebre/), Technische Universiteit Eindhoven (TU/e)
 - [Mariëlle Stoelinga](https://personen.utwente.nl/m.i.a.stoelinga), Universiteit Twente (UT)
-
+- [Sophie Lathouwers](https://www.sophielathouwers.nl/), TNO
+- [George Fletcher](https://www.tue.nl/en/research/researchers/george-fletcher), Eindhoven University of Technology
+- Machiel van der Bijl, [Axini](https://www.axini.com/nl/about/)
+- [Lu Cao](https://www.universiteitleiden.nl/en/staffmembers/lu-cao#tab-1), Leiden University
+- [Jiapan Guo](https://www.rug.nl/staff/j.guo/), University of Groningen
+  
 ## Code of Conduct
 Alice and Eve is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of conference participants in any form. Conference participants violating these rules may be sanctioned or expelled from the conference at the discretion of the conference organizers.
 Harassment includes, but is not limited to:
