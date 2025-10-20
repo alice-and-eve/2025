@@ -164,7 +164,7 @@ During the conference, there will be the possibility for attendees to advertise 
 - [Mariëlle Stoelinga](https://personen.utwente.nl/m.i.a.stoelinga), Universiteit Twente (UT)
 - [Sophie Lathouwers](https://www.sophielathouwers.nl/), TNO
 - [George Fletcher](https://www.tue.nl/en/research/researchers/george-fletcher), Eindhoven University of Technology
-- Machiel van der Bijl, [Axini](https://www.axini.com/nl/about/)
+- [Machiel van der Bijl](https://www.axini.com/nl/about/), Axini
 - [Lu Cao](https://www.universiteitleiden.nl/en/staffmembers/lu-cao#tab-1), Leiden University
 - [Jiapan Guo](https://www.rug.nl/staff/j.guo/), University of Groningen
   
