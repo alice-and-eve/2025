@@ -78,6 +78,8 @@ We invite all female students (Bachelor/Master/PhD) and early career researchers
 
 **Sinem Mustacoglu** Analyzing Methods and Metrics for Distinguishing the Human from the Artificial in Creative Domains: A Systematic Review
 
+Congratulations!
+
 <!--We welcome you to submit an existing or previously published poster—no need to print it again.-->
 
 <!--To enter the poster contest, submit a **half-page abstract** (maximum **250 words**) describing your poster topic by **15 September 2025** via EasyChair: <a href="https://easychair.org/my/conference?conf=ae250" target="_blank" rel="noopener noreferrer">https://easychair.org/my/conference?conf=ae250</a>.
