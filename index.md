@@ -86,10 +86,10 @@ Congratulations!
 
 
 Your poster may cover any topic in computing — from social networking to quantum computing, or from medical image processing to formal verification. We welcome you to submit an existing or previously published poster—no need to print it again.
--->
+
 
 Notification of acceptance will be sent by 22 september 2025. Selected participants are expected to bring their poster to the workshop and present it during the poster session. Posters can be up to A0 size (portrait) or A1 (landscape). Prizes will be awarded at the end of the day for the best posters.
-
+-->
 
 <!--Thirty-two posters were short listed for display during the event. This year, we have two best posters:
 
