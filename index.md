@@ -74,9 +74,9 @@ REGISTRATION IS CLOSED!
 
 We invite all female students (Bachelor/Master/PhD) and early career researchers of computing and related subjects (in the broadest sense) to submit a poster. The poster could be on any computing topic they like: from social networking to quantum computing and from medical image processing to formal verification. This year, twenty posters were short listed for display during the event and the two best posters are:
 
-**Mae Sosto** QueerGen: How LLMs Reflect Societal Norms On Gender And Sexuality In Sentence Completion Task <br>
+**Mae Sosto**: QueerGen: How LLMs Reflect Societal Norms On Gender And Sexuality In Sentence Completion Task <br>
 
-**Sinem Mustacoglu** Analyzing Methods and Metrics for Distinguishing the Human from the Artificial in Creative Domains: A Systematic Review
+**Sinem Mustacoglu**: Analyzing Methods and Metrics for Distinguishing the Human from the Artificial in Creative Domains: A Systematic Review
 
 Congratulations!
 
